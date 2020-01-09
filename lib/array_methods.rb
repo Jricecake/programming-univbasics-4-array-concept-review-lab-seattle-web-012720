@@ -18,8 +18,8 @@ def find_max_value(array)
       max = array[counter]
     end
     counter +=1
-    p max
   end
+  return max
 end
 
 def find_min_value(array)
